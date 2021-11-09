@@ -1,0 +1,28 @@
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.exe
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.deps.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.dev.json
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\bin\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfoInputs.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfo.cs
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.CoreCompileInputs.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.dll
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.genruntimeconfig.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.AssemblyReference.cache
+C:\Users\Virginia Leticia\OneDrive\Área de Trabalho\Trabalhos\ETE\Tarefas e Trabalhos\2021\Linguagem de Programação\Bank_OO\myBank\obj\Debug\netcoreapp3.1\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\bin\Debug\netcoreapp3.1\myBank.exe
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\bin\Debug\netcoreapp3.1\myBank.deps.json
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.json
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.dev.json
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\bin\Debug\netcoreapp3.1\myBank.dll
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\bin\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.AssemblyReference.cache
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfoInputs.cache
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfo.cs
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.csproj.CoreCompileInputs.cache
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.dll
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\Thuli\Desktop\ETEFMC\banco em OO csharp\BankSystem\myBank\obj\Debug\netcoreapp3.1\myBank.genruntimeconfig.cache

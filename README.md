@@ -1,2 +1,2 @@
-# Sistema_de_Banco
-Repositório criado na aula de Linguagem de Programação
+# Bank_OO
+Projeto de programação orietada a objeto - banco.
